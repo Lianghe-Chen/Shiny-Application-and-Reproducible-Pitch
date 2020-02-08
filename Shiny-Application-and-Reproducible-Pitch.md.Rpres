@@ -1,0 +1,49 @@
+
+Prediction of a Car's Miles per Gallon (MPG)
+========================================================
+author: Chen Lianghe
+date: 08 February 2020
+autosize: true
+
+Overview
+========================================================
+
+This is a Reproducible Pitch Presentation about my Shiny application.
+
+It allows you to predict your car's expected Miles per Gallon (MPG) based on your car's specifications.
+
+These specifications include:
+
+  1. The Type of Transmission (Automatic vs. Manual).
+  2. The Number of Cylinders.
+  3. The Car's Weight.
+  4. The Car's Gross Horsepower.
+
+Purpose of Application
+========================================================
+
+The purpose of this application is to allow users to predict their car's Miles per Gallon (MPG) with ease by entering their car's specifications.
+
+These specifications include the type of transmission, the number of cylinders, the car's weight and gross horsepower.
+
+This will allow users to have a better idea of the mileage they have achieved based on each gallon of fuel exhausted.
+
+Resources
+========================================================
+
+Shiny Application
+
+- My Shiny Application is available at: https://chenlianghe.shinyapps.io/Prediction_of_Car_MPG/
+
+Source Codes
+
+- My Source Codes are available at: https://github.com/Lianghe-Chen/Shiny-Application-and-Reproducible-Pitch.git
+
+Summary of Dataset
+========================================================
+
+For this application, we utilised the mtcars dataset from the dataset library.
+A summary of this dataset is shown below:
+```{r}
+summary(mtcars)
+```

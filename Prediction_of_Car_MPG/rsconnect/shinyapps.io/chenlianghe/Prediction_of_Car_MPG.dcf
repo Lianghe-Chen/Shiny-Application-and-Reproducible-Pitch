@@ -1,0 +1,12 @@
+name: Prediction_of_Car_MPG
+title: Prediction_of_Car_MPG
+username:
+account: chenlianghe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1780739
+bundleId: 2784279
+url: https://chenlianghe.shinyapps.io/Prediction_of_Car_MPG/
+when: 1581149805.1951
+asMultiple: FALSE
+asStatic: FALSE
